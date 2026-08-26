@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1051-height-checker) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -196,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0204-count-primes) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Primality Test
 |  |
 | ------- |
@@ -237,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
