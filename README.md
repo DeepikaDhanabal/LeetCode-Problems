@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
+| [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0148-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -131,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -228,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Pigeonhole Principle
 |  |
 | ------- |
+| [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 ## Design
 |  |
@@ -288,4 +293,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
