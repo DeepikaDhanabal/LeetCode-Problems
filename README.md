@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0191-number-of-1-bits](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
