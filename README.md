@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0148-sort-list) |
 ## Dynamic Programming
 |  |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
