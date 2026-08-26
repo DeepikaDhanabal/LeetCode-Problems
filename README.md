@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
+| [0303-range-sum-query-immutable](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0303-range-sum-query-immutable](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0724-find-pivot-index) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
