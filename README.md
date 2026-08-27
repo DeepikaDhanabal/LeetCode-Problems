@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0136-single-number) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0191-number-of-1-bits](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0191-number-of-1-bits) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
