@@ -216,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0204-count-primes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 ## Euclidean Algorithm
 |  |
