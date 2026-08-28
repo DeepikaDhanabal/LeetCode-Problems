@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
 | ------- |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0509-fibonacci-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+| [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Manacher
 |  |
