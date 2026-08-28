@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0090-subsets-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0179-largest-number) |
@@ -427,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 ## Hamiltonian Path
@@ -484,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
