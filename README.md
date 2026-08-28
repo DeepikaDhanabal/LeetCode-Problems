@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Sliding Window
 |  |
 | ------- |
@@ -326,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -355,6 +358,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0204-count-primes) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Number Theory
 |  |
 | ------- |
@@ -425,6 +429,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 ## Memoization
 |  |
 | ------- |
@@ -475,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0278-first-bad-version) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
