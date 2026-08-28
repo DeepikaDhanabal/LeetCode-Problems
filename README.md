@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
@@ -84,15 +85,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Rolling Hash
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
 |  |
@@ -100,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Boyer–Moore String-Search Algorithm
 |  |
@@ -107,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## String Matching
 |  |
 | ------- |
@@ -162,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0704-binary-search) |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -340,4 +347,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
+## Suffix Array
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Automaton
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+## Suffix Tree
+|  |
+| ------- |
+| [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 <!---LeetCode Topics End-->
