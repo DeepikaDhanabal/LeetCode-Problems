@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0724-find-pivot-index) |
+| [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 | [1051-height-checker](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0090-subsets-ii) |
+| [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 ## Memoization
 |  |
 | ------- |
@@ -386,4 +389,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0051-n-queens) |
+## Matrix
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+## Hamiltonian Path
+|  |
+| ------- |
+| [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 <!---LeetCode Topics End-->
