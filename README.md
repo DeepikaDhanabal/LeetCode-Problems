@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [0904-fruit-into-baskets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0523-continuous-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
 ## Sliding Window
@@ -245,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
+| [0645-set-mismatch](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [1051-height-checker](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
