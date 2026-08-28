@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0344-reverse-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0424-longest-repeating-character-replacement](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
@@ -90,12 +91,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Hash Function
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Z Algorithm
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
@@ -117,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
@@ -151,10 +156,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 ## Knuth–Morris–Pratt Algorithm
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0214-shortest-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0214-shortest-palindrome) |
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 ## Binary Search
