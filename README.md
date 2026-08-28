@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Bit Manipulation
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0686-repeated-string-match](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0686-repeated-string-match) |
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
+| [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
 ## Trie
 |  |
