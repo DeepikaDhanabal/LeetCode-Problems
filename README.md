@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0014-longest-common-prefix) |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0046-permutations](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0047-permutations-ii) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
@@ -430,6 +432,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0037-sudoku-solver](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0051-n-queens) |
@@ -458,10 +461,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Algorithm X
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0051-n-queens](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0051-n-queens) |
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
@@ -511,4 +516,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+## Dancing Links
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
