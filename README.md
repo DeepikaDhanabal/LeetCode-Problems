@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0076-minimum-window-substring) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0187-repeated-dna-sequences](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0242-valid-anagram) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
@@ -282,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0148-sort-list) |
@@ -456,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0142-linked-list-cycle-ii) |
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 ## Backtracking
 |  |
