@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0796-rotate-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0806-number-of-lines-to-write-string) |
 | [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1392-longest-happy-prefix](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1392-longest-happy-prefix) |
 | [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
 | [1668-maximum-repeating-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1668-maximum-repeating-substring) |
@@ -467,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
 |  |
