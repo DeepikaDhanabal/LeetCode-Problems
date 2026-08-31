@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0136-single-number) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0164-maximum-gap](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0164-maximum-gap) |
@@ -354,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0231-power-of-two) |
@@ -459,6 +461,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
