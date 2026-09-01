@@ -467,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0503-next-greater-element-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
@@ -557,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Breadth-First Search
 |  |
@@ -596,9 +598,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0144-binary-tree-preorder-traversal) |
+| [0145-binary-tree-postorder-traversal](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
