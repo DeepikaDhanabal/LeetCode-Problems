@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0344-reverse-string) |
 | [0541-reverse-string-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0541-reverse-string-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0876-middle-of-the-linked-list) |
@@ -325,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0645-set-mismatch](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0645-set-mismatch) |
 | [0969-pancake-sorting](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0969-pancake-sorting) |
@@ -345,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0451-sort-characters-by-frequency](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0973-k-closest-points-to-origin](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
@@ -408,6 +411,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
 ## Enumeration
 |  |
@@ -693,4 +697,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
