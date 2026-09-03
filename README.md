@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -383,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
 | [0973-k-closest-points-to-origin](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0779-k-th-symbol-in-grammar) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Euclidean Algorithm
 |  |
 | ------- |
@@ -466,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0258-add-digits) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quicksort
 |  |
@@ -671,6 +675,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0232-implement-queue-using-stacks) |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Binary Search Tree
 |  |
 | ------- |
