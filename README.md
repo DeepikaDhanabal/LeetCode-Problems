@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
 | [1408-string-matching-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1408-string-matching-in-an-array) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0704-binary-search) |
 | [1044-longest-duplicate-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1044-longest-duplicate-substring) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -389,6 +391,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0973-k-closest-points-to-origin) |
 | [1046-last-stone-weight](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1046-last-stone-weight) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -601,6 +604,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0980-unique-paths-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0980-unique-paths-iii) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Hamiltonian Path
 |  |
 | ------- |
@@ -656,6 +660,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -669,6 +674,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
@@ -791,6 +797,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Topological Sort
 |  |
 | ------- |
@@ -799,4 +806,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
