@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-find-the-winner-of-the-circular-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1122-relative-sort-array) |
 | [1288-remove-covered-intervals](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1288-remove-covered-intervals) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Counting Sort
 |  |
@@ -526,6 +528,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0739-daily-temperatures) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 | [2000-reverse-prefix-of-word](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/2000-reverse-prefix-of-word) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -593,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0621-task-scheduler) |
 | [0767-reorganize-string](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0767-reorganize-string) |
 | [0969-pancake-sorting](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0969-pancake-sorting) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Geometry
 |  |
 | ------- |
@@ -666,6 +670,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0739-daily-temperatures) |
+| [1996-the-number-of-weak-characters-in-the-game](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1996-the-number-of-weak-characters-in-the-game) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
