@@ -665,6 +665,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -680,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0684-redundant-connection](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
@@ -688,6 +690,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0684-redundant-connection](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
@@ -816,6 +819,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [1584-min-cost-to-connect-all-points](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1584-min-cost-to-connect-all-points) |
 | [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
