@@ -664,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Breadth-First Search
@@ -678,12 +679,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
+| [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 | [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 | [1042-flower-planting-with-no-adjacent](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1042-flower-planting-with-no-adjacent) |
 ## Graph Coloring
 |  |
@@ -813,6 +816,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
+| [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -821,4 +825,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1631-path-with-minimum-effort) |
+## Kosaraju's Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
+## Tarjan's SCC Algorithm
+|  |
+| ------- |
+| [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
 <!---LeetCode Topics End-->
