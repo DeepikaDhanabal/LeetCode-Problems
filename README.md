@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0140-word-break-ii) |
@@ -418,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0204-count-primes) |
@@ -579,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0140-word-break-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0509-fibonacci-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 ## Suffix Array
