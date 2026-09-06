@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0209-minimum-size-subarray-sum) |
@@ -437,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0050-powx-n) |
+| [0069-sqrtx](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0172-factorial-trailing-zeroes) |
@@ -905,4 +907,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/1143-longest-common-subsequence) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
