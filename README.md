@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0274-h-index) |
 | [0287-find-the-duplicate-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0303-range-sum-query-immutable) |
+| [0322-coin-change](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0493-reverse-pairs](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0493-reverse-pairs) |
@@ -258,6 +259,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0152-maximum-product-subarray) |
+| [0322-coin-change](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0337-house-robber-iii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0337-house-robber-iii) |
 | [0509-fibonacci-number](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0509-fibonacci-number) |
 | [0518-coin-change-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0518-coin-change-ii) |
@@ -692,6 +694,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0684-redundant-connection](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0695-max-area-of-island) |
 | [0802-find-eventual-safe-states](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0802-find-eventual-safe-states) |
@@ -877,9 +880,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Knapsack Problem
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/DeepikaDhanabal/LeetCode-Problems/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
